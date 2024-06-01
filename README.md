@@ -1,2 +1,2 @@
-# LeetcodeDailyChallenge
-solution for leetcode daily challenge problems in python
+# Leetcode Daily Challenge Solutions
+Solution for leetcode daily challenge problems in python
